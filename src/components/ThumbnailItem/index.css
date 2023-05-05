@@ -1,0 +1,16 @@
+/* Write your code here. */
+.thumbnail-img {
+  width: 55px;
+  height: 55px;
+  border-radius: 6px;
+  margin-right: 10px;
+  opacity: 0.5;
+}
+
+.opacity {
+  opacity: 1;
+}
+
+.list-item {
+  list-style-type: none;
+}

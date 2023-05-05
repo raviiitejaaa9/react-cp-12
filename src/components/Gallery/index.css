@@ -1,0 +1,35 @@
+/* Write your code here. */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  padding: 20px;
+}
+
+.image {
+  width: 60%;
+  height: 50vh;
+  border-radius: 10px;
+  margin-left: 10vw;
+  margin-top: 20px;
+}
+
+.head {
+  margin-left: 10vw;
+}
+
+.para {
+  margin-left: 10vw;
+}
+
+.thumbnail-container {
+  align-self: flex-start;
+  margin-left: 10vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
